@@ -1,0 +1,246 @@
+Degree,Department,Laptop Brand,Weekly Screen Time,Primary Use,Preferred OS,Mode of Purchase,Performance Rating,Battery Rating,Price Rating
+UG,CSE,Asus,43,Study,Windows,Other,2,5,2
+UG,EEE,HP,18,Social Media,Windows,Retail Store,3,4,4
+UG,ME,Asus,27,Work,Windows,Online,1,5,1
+UG,CSE,HP,52,Gaming,Linux,Online,1,3,1
+UG,EEE,HP,19,Work,Linux,Online,1,4,5
+UG,EEE,HP,52,Entertainment,Windows,Other,2,1,5
+UG,ME,HP,37,Work,Windows,Retail Store,2,5,3
+UG,AI,Apple,20,Entertainment,MacOS,Online,1,5,4
+UG,AI,HP,36,Study,Windows,Online,2,1,1
+UG,CSE,HP,41,Study,Linux,Online,5,5,5
+UG,ME,Asus,36,Study,Windows,Retail Store,5,1,4
+UG,AI,HP,6,Study,Windows,Retail Store,2,4,5
+UG,ME,HP,18,Social Media,Windows,Online,1,3,5
+UG,AI,Asus,24,Study,Windows,Online,2,1,1
+UG,EEE,Lenovo,27,Creative Work,Windows,Online,2,2,1
+PhD,AI,Dell,36,Study,Windows,Other,2,1,5
+UG,ME,Asus,30,Study,Windows,Online,3,5,2
+UG,EEE,Lenovo,10,Gaming,Windows,Retail Store,5,4,5
+PhD,EEE,HP,33,Entertainment,Linux,Retail Store,4,4,5
+UG,EEE,Dell,36,Work,Windows,Online,4,1,3
+UG,ME,Apple,35,Work,Windows,Online,3,3,3
+UG,CSE,Lenovo,42,Entertainment,Windows,Online,2,2,3
+UG,CSE,HP,39,Study,Windows,Retail Store,3,4,2
+UG,CSE,Asus,34,Creative Work,Windows,Other,3,5,2
+UG,ME,Apple,27,Creative Work,Windows,Retail Store,1,5,5
+UG,EEE,Dell,5,Entertainment,Windows,Retail Store,5,3,3
+UG,CSE,HP,33,Study,Windows,Online,4,4,2
+PG,ME,HP,30,Entertainment,Windows,Other,2,1,1
+UG,CSE,Apple,31,Study,Windows,Other,4,5,5
+UG,AI,Dell,10,Study,Linux,Online,4,3,4
+UG,CSE,HP,13,Study,Windows,Other,5,4,5
+UG,CSE,Apple,42,Work,Windows,Retail Store,4,4,4
+UG,EEE,Asus,27,Social Media,Windows,Retail Store,4,4,3
+UG,ME,HP,37,Entertainment,Windows,Retail Store,3,4,4
+UG,EEE,Asus,28,Entertainment,Windows,Other,5,4,3
+UG,EEE,Dell,28,Work,Windows,Retail Store,1,5,1
+UG,EEE,Asus,40,Study,Linux,Online,2,3,4
+UG,EEE,Dell,21,Study,Windows,Online,4,4,5
+UG,EEE,HP,29,Creative Work,Windows,Other,2,2,3
+UG,CSE,Apple,21,Study,Windows,Online,1,2,5
+PhD,EEE,Dell,22,Social Media,Windows,Online,2,3,2
+PG,EEE,HP,23,Work,Windows,Retail Store,1,1,3
+UG,ME,Apple,31,Work,Windows,Retail Store,3,1,4
+PhD,AI,Apple,21,Entertainment,Windows,Retail Store,4,1,3
+UG,CSE,Lenovo,45,Work,Linux,Other,1,2,5
+UG,CSE,Lenovo,16,Social Media,Windows,Online,2,1,1
+UG,CSE,HP,25,Research,Windows,Online,4,5,3
+UG,EEE,HP,22,Work,Windows,Online,3,4,4
+UG,EEE,HP,47,Study,Windows,Other,4,2,2
+UG,EEE,Dell,30,Work,Windows,Retail Store,1,3,1
+UG,ME,Asus,42,Research,Windows,Online,3,3,2
+UG,AI,Lenovo,8,Study,Windows,Other,2,4,3
+PhD,EEE,HP,31,Entertainment,MacOS,Other,3,2,5
+UG,AI,HP,40,Entertainment,Windows,Other,3,1,5
+UG,ME,Acer,29,Entertainment,Windows,Other,5,1,4
+PhD,CSE,Dell,42,Study,Linux,Online,3,5,5
+PhD,EEE,Lenovo,21,Entertainment,Windows,Retail Store,3,5,1
+PhD,AI,HP,47,Research,Windows,Retail Store,4,1,5
+UG,AI,Lenovo,59,Study,Windows,Other,2,3,4
+UG,EEE,Dell,23,Study,Windows,Retail Store,4,3,3
+UG,CSE,Asus,22,Creative Work,Windows,Other,4,5,3
+UG,CSE,Asus,47,Study,Linux,Retail Store,1,4,5
+PhD,CSE,HP,49,Social Media,Windows,Online,4,1,2
+UG,ME,Lenovo,21,Work,Windows,Retail Store,5,5,3
+PG,AI,Asus,22,Study,Windows,Other,5,5,5
+PG,AI,Lenovo,24,Social Media,Windows,Other,1,1,4
+PG,AI,Dell,9,Work,Windows,Online,2,1,5
+UG,ME,Lenovo,15,Work,Windows,Online,2,3,3
+UG,AI,Lenovo,14,Study,Linux,Online,4,4,4
+UG,ME,HP,17,Work,Windows,Retail Store,4,4,5
+PG,CSE,Apple,27,Study,Windows,Other,4,1,1
+UG,EEE,Asus,31,Study,Windows,Online,2,2,4
+UG,AI,Asus,49,Creative Work,Windows,Retail Store,3,5,1
+UG,AI,HP,14,Study,Windows,Other,5,5,2
+UG,CSE,Dell,41,Entertainment,Windows,Retail Store,3,1,4
+PG,EEE,Samsung,25,Study,MacOS,Retail Store,3,2,1
+PG,ME,Asus,27,Gaming,Windows,Retail Store,2,3,3
+UG,EEE,Dell,37,Study,Windows,Retail Store,3,1,3
+PG,CSE,Asus,12,Creative Work,MacOS,Online,1,1,2
+UG,CSE,Asus,33,Work,Linux,Retail Store,4,5,4
+UG,EEE,HP,30,Study,Windows,Retail Store,1,1,4
+UG,ME,Lenovo,34,Study,Windows,Other,5,1,4
+UG,ME,HP,32,Study,Windows,Retail Store,4,1,2
+UG,AI,Dell,60,Work,Linux,Retail Store,3,5,4
+UG,ME,HP,19,Study,Linux,Online,5,3,3
+UG,EEE,Asus,20,Gaming,Windows,Retail Store,4,3,1
+UG,CSE,Dell,19,Work,Linux,Online,3,1,3
+UG,AI,HP,20,Study,Windows,Online,1,5,3
+UG,AI,HP,19,Entertainment,Windows,Retail Store,4,3,1
+UG,CSE,HP,44,Entertainment,Windows,Other,3,3,3
+UG,ME,Asus,47,Study,MacOS,Online,1,3,2
+UG,CSE,HP,20,Study,Windows,Online,5,5,1
+UG,ME,HP,16,Study,Linux,Other,5,5,3
+PG,CSE,Apple,34,Entertainment,MacOS,Online,5,1,5
+UG,EEE,HP,20,Entertainment,Windows,Retail Store,5,4,3
+UG,ME,HP,36,Work,Windows,Retail Store,2,3,2
+UG,EEE,HP,30,Gaming,Windows,Retail Store,4,4,4
+UG,AI,Dell,7,Gaming,Windows,Online,4,5,3
+UG,CSE,Dell,49,Work,Windows,Online,2,5,4
+UG,AI,HP,52,Social Media,Windows,Other,3,5,5
+UG,AI,HP,19,Study,Linux,Retail Store,3,4,3
+UG,AI,Asus,22,Study,Windows,Online,5,5,1
+PG,AI,HP,32,Study,Windows,Retail Store,1,1,4
+PhD,CSE,Lenovo,32,Study,Windows,Online,3,5,5
+UG,AI,Lenovo,37,Work,Windows,Retail Store,1,2,1
+UG,CSE,Dell,55,Research,Windows,Online,4,4,1
+UG,CSE,Lenovo,25,Study,Windows,Other,1,2,1
+PG,EEE,Dell,17,Study,Linux,Online,4,5,1
+PG,ME,Acer,9,Work,Windows,Online,2,1,3
+UG,ME,Dell,18,Research,Linux,Online,2,3,3
+UG,CSE,HP,27,Study,Linux,Online,5,5,3
+UG,EEE,Dell,52,Work,Windows,Other,3,1,5
+UG,CSE,Sony,21,Study,Linux,Other,5,4,5
+UG,CSE,HP,31,Study,Windows,Online,4,2,5
+UG,CSE,Lenovo,27,Creative Work,MacOS,Retail Store,5,2,2
+PhD,EEE,Dell,44,Creative Work,Windows,Retail Store,1,2,5
+UG,ME,Apple,60,Study,Linux,Other,4,4,3
+UG,EEE,Dell,20,Creative Work,Linux,Retail Store,2,1,3
+UG,AI,Asus,21,Entertainment,MacOS,Online,3,4,2
+PG,EEE,Dell,42,Social Media,MacOS,Online,4,2,2
+PhD,EEE,Dell,37,Work,Windows,Retail Store,4,5,5
+UG,EEE,Dell,53,Work,Windows,Online,1,3,4
+UG,EEE,HP,36,Work,Windows,Retail Store,3,4,2
+UG,ME,HP,23,Entertainment,Windows,Online,2,4,1
+UG,AI,Dell,36,Study,Windows,Other,4,1,3
+UG,ME,Apple,43,Study,Windows,Online,4,1,1
+UG,ME,HP,39,Study,Linux,Retail Store,1,4,3
+UG,EEE,HP,35,Entertainment,Windows,Retail Store,5,2,3
+UG,CSE,HP,42,Study,Linux,Retail Store,2,3,2
+UG,CSE,HP,44,Entertainment,Windows,Online,3,1,2
+UG,ME,HP,46,Creative Work,Linux,Retail Store,4,2,1
+UG,ME,Dell,36,Study,Linux,Retail Store,4,5,3
+UG,EEE,Dell,25,Entertainment,Windows,Retail Store,2,1,1
+UG,ME,Asus,30,Work,Windows,Retail Store,5,2,4
+UG,EEE,Acer,44,Social Media,MacOS,Retail Store,4,2,1
+UG,CSE,HP,17,Study,Windows,Other,2,3,5
+UG,CSE,HP,33,Entertainment,Windows,Online,1,3,1
+UG,AI,Lenovo,22,Gaming,Windows,Other,5,5,5
+UG,CSE,HP,28,Research,Windows,Retail Store,3,2,5
+UG,ME,Dell,45,Entertainment,Windows,Online,4,2,5
+PhD,CSE,Dell,30,Work,Windows,Online,2,3,4
+UG,EEE,Lenovo,28,Entertainment,Windows,Online,1,1,1
+UG,CSE,Lenovo,9,Social Media,Windows,Other,3,1,1
+PG,AI,Dell,38,Work,Linux,Retail Store,2,4,4
+UG,CSE,HP,36,Study,Windows,Other,2,3,3
+PG,EEE,HP,57,Research,Linux,Retail Store,3,4,2
+UG,EEE,Lenovo,23,Entertainment,Windows,Retail Store,1,3,1
+UG,ME,Dell,31,Entertainment,Windows,Online,1,5,2
+UG,CSE,Dell,31,Study,Windows,Online,5,2,4
+UG,EEE,Apple,49,Entertainment,Windows,Retail Store,4,5,3
+UG,AI,Dell,26,Study,Windows,Online,3,3,3
+PhD,ME,Lenovo,31,Entertainment,Windows,Online,3,2,3
+UG,AI,HP,36,Study,Windows,Retail Store,3,1,4
+UG,CSE,Dell,30,Entertainment,Windows,Retail Store,1,1,5
+UG,CSE,HP,22,Creative Work,Windows,Other,4,4,5
+PG,CSE,Apple,30,Study,Windows,Other,5,3,2
+UG,ME,Asus,42,Creative Work,Windows,Retail Store,2,3,5
+UG,EEE,Asus,14,Work,MacOS,Online,2,1,5
+UG,ME,HP,29,Social Media,Windows,Retail Store,3,5,3
+UG,AI,Lenovo,18,Gaming,Windows,Other,4,2,3
+UG,ME,Dell,44,Work,Linux,Online,1,5,2
+UG,AI,HP,7,Entertainment,Windows,Online,4,5,1
+UG,ME,Asus,20,Social Media,Windows,Other,4,1,2
+UG,EEE,Dell,33,Work,Linux,Online,1,1,2
+UG,AI,Dell,49,Study,Windows,Retail Store,3,1,4
+PG,CSE,Dell,27,Entertainment,Windows,Retail Store,4,4,4
+UG,CSE,Dell,20,Gaming,Windows,Online,2,5,2
+UG,ME,Dell,53,Gaming,Windows,Online,1,3,2
+UG,CSE,Lenovo,8,Gaming,Windows,Online,5,2,2
+UG,AI,HP,5,Work,Windows,Online,3,4,5
+UG,CSE,Asus,34,Gaming,Windows,Online,1,3,4
+UG,EEE,Asus,21,Study,Windows,Other,5,5,2
+UG,EEE,HP,14,Work,Linux,Online,5,1,3
+UG,ME,HP,37,Study,MacOS,Retail Store,4,5,3
+UG,AI,HP,31,Study,Windows,Online,4,2,5
+PG,EEE,Lenovo,20,Study,Windows,Other,4,4,5
+UG,EEE,HP,10,Study,Windows,Online,1,4,1
+UG,AI,Lenovo,39,Entertainment,Windows,Online,1,2,1
+UG,CSE,HP,36,Study,Windows,Other,3,3,1
+UG,CSE,HP,26,Work,Windows,Other,4,3,5
+UG,ME,HP,53,Study,Linux,Online,5,4,5
+UG,CSE,HP,13,Study,Windows,Other,2,4,5
+PG,AI,Acer,7,Study,Windows,Retail Store,3,1,3
+UG,EEE,Apple,18,Study,Windows,Retail Store,1,3,5
+PG,CSE,Dell,27,Entertainment,Windows,Online,3,2,3
+PhD,ME,Asus,31,Entertainment,Linux,Online,3,3,1
+UG,CSE,HP,24,Entertainment,Windows,Retail Store,3,1,1
+UG,AI,Asus,32,Work,MacOS,Retail Store,3,4,1
+UG,ME,Apple,11,Study,Windows,Retail Store,2,4,2
+UG,CSE,HP,47,Social Media,Windows,Retail Store,4,1,2
+UG,ME,Dell,27,Work,Windows,Retail Store,5,2,4
+UG,AI,HP,43,Work,Windows,Online,3,4,4
+UG,EEE,HP,32,Study,Windows,Retail Store,3,5,4
+PG,AI,Lenovo,34,Study,MacOS,Online,3,4,2
+PG,AI,HP,35,Study,Windows,Retail Store,4,5,2
+UG,AI,Dell,34,Study,Windows,Retail Store,1,1,4
+PhD,AI,Asus,36,Work,Windows,Other,1,1,4
+UG,EEE,Samsung,46,Work,Windows,Online,2,4,5
+UG,EEE,HP,30,Entertainment,Windows,Online,1,3,4
+UG,ME,Dell,37,Gaming,Linux,Online,3,5,5
+UG,CSE,HP,26,Gaming,MacOS,Online,3,2,3
+UG,EEE,Dell,47,Entertainment,Linux,Online,3,4,2
+UG,EEE,Asus,18,Creative Work,Windows,Other,2,2,4
+UG,CSE,Dell,52,Study,Windows,Online,3,4,2
+PG,EEE,Lenovo,27,Study,Windows,Online,1,3,2
+UG,AI,HP,8,Study,Windows,Retail Store,4,3,2
+UG,AI,HP,29,Entertainment,Linux,Retail Store,4,3,3
+UG,CSE,Lenovo,18,Social Media,Windows,Other,5,3,1
+UG,ME,Asus,39,Study,Windows,Online,1,1,4
+UG,ME,Dell,19,Research,Windows,Retail Store,3,1,1
+PG,CSE,Dell,22,Study,Windows,Online,4,5,1
+UG,CSE,Dell,5,Research,Windows,Online,1,2,1
+UG,AI,Asus,22,Study,Windows,Other,4,4,2
+UG,ME,Asus,5,Study,Windows,Online,3,4,5
+UG,EEE,Lenovo,6,Work,Windows,Retail Store,4,1,2
+UG,AI,Lenovo,38,Study,Windows,Online,5,4,2
+UG,CSE,Lenovo,38,Study,MacOS,Online,5,1,1
+UG,ME,Dell,33,Study,Linux,Other,4,5,2
+UG,EEE,Asus,15,Gaming,Linux,Online,1,2,1
+UG,EEE,HP,27,Work,MacOS,Retail Store,1,5,5
+UG,AI,HP,28,Study,Windows,Other,1,3,4
+UG,ME,HP,12,Entertainment,Windows,Retail Store,4,3,1
+UG,ME,Dell,48,Entertainment,Windows,Other,1,3,5
+UG,CSE,Dell,40,Study,Windows,Online,3,5,4
+UG,ME,Apple,25,Work,Linux,Online,5,4,3
+UG,ME,Dell,28,Study,Windows,Online,3,2,1
+UG,AI,Lenovo,30,Study,Linux,Retail Store,1,3,1
+PG,ME,HP,5,Entertainment,Windows,Other,3,3,3
+UG,EEE,HP,24,Study,Windows,Online,1,3,3
+PhD,AI,HP,18,Work,Windows,Retail Store,4,2,1
+UG,AI,HP,14,Entertainment,Linux,Online,3,3,3
+UG,CSE,Lenovo,24,Study,Windows,Retail Store,4,2,2
+PG,ME,HP,52,Work,Windows,Retail Store,4,3,4
+UG,CSE,HP,36,Study,Windows,Other,2,5,4
+UG,EEE,HP,20,Creative Work,Windows,Retail Store,1,5,4
+UG,AI,Lenovo,35,Work,Windows,Online,5,2,2
+UG,AI,Asus,47,Gaming,Windows,Online,1,5,3
+UG,AI,Apple,40,Work,Windows,Online,5,2,5
+UG,EEE,Dell,28,Study,Windows,Online,1,5,3
+PG,EEE,Dell,19,Entertainment,Windows,Online,4,5,1
+UG,CSE,HP,37,Creative Work,Windows,Other,3,2,4
+UG,CSE,Lenovo,33,Entertainment,Windows,Retail Store,3,4,3
+UG,CSE,Dell,40,Gaming,Windows,Retail Store,2,5,5
+UG,ME,HP,36,Social Media,Windows,Online,5,3,1
+UG,AI,Lenovo,42,Study,Windows,Other,5,4,2
